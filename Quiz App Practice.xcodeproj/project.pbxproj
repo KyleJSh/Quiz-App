@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C809E1982623FD3300FE5157 /* image5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C809E1932623FD3100FE5157 /* image5.jpg */; };
+		C809E1992623FD3300FE5157 /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C809E1942623FD3100FE5157 /* image2.jpg */; };
+		C809E19A2623FD3300FE5157 /* image4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C809E1952623FD3200FE5157 /* image4.jpg */; };
+		C809E19B2623FD3300FE5157 /* image3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C809E1962623FD3200FE5157 /* image3.jpg */; };
+		C809E19C2623FD3300FE5157 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C809E1972623FD3300FE5157 /* image1.jpg */; };
 		C8A8CACF261E152300825D80 /* StateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A8CACE261E152300825D80 /* StateManager.swift */; };
 		C8CFABB0261CBCEA00B85FCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8CFABAF261CBCEA00B85FCE /* AppDelegate.swift */; };
 		C8CFABB2261CBCEA00B85FCE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8CFABB1261CBCEA00B85FCE /* SceneDelegate.swift */; };
@@ -21,11 +26,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C809E18E2623F5D600FE5157 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image1.jpg; path = ../../../../image1.jpg; sourceTree = "<group>"; };
-		C809E18F2623F5D600FE5157 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image2.jpg; path = ../../../../image2.jpg; sourceTree = "<group>"; };
-		C809E1902623F5D600FE5157 /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image3.jpg; path = ../../../../image3.jpg; sourceTree = "<group>"; };
-		C809E1912623F5D600FE5157 /* image5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image5.jpg; path = ../../../../image5.jpg; sourceTree = "<group>"; };
-		C809E1922623F5D600FE5157 /* image4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image4.jpg; path = ../../../../image4.jpg; sourceTree = "<group>"; };
+		C809E1932623FD3100FE5157 /* image5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image5.jpg; sourceTree = "<group>"; };
+		C809E1942623FD3100FE5157 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
+		C809E1952623FD3200FE5157 /* image4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image4.jpg; sourceTree = "<group>"; };
+		C809E1962623FD3200FE5157 /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.jpg; sourceTree = "<group>"; };
+		C809E1972623FD3300FE5157 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
 		C82D77B42623F010007ACDFD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C8A8CACE261E152300825D80 /* StateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateManager.swift; sourceTree = "<group>"; };
 		C8CFABAC261CBCEA00B85FCE /* Quiz App Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz App Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -57,11 +62,11 @@
 			isa = PBXGroup;
 			children = (
 				C82D77B42623F010007ACDFD /* README.md */,
-				C809E18E2623F5D600FE5157 /* image1.jpg */,
-				C809E18F2623F5D600FE5157 /* image2.jpg */,
-				C809E1902623F5D600FE5157 /* image3.jpg */,
-				C809E1922623F5D600FE5157 /* image4.jpg */,
-				C809E1912623F5D600FE5157 /* image5.jpg */,
+				C809E1972623FD3300FE5157 /* image1.jpg */,
+				C809E1962623FD3200FE5157 /* image3.jpg */,
+				C809E1942623FD3100FE5157 /* image2.jpg */,
+				C809E1952623FD3200FE5157 /* image4.jpg */,
+				C809E1932623FD3100FE5157 /* image5.jpg */,
 				C8CFABAE261CBCEA00B85FCE /* Quiz App Practice */,
 				C8CFABAD261CBCEA00B85FCE /* Products */,
 			);
@@ -152,9 +157,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8CFABBC261CBCED00B85FCE /* LaunchScreen.storyboard in Resources */,
+				C809E1982623FD3300FE5157 /* image5.jpg in Resources */,
 				C8CFABB9261CBCED00B85FCE /* Assets.xcassets in Resources */,
 				C8CFABB7261CBCEA00B85FCE /* Main.storyboard in Resources */,
+				C809E19A2623FD3300FE5157 /* image4.jpg in Resources */,
+				C809E1992623FD3300FE5157 /* image2.jpg in Resources */,
 				C8DC86AA261CF4B0009E4255 /* QuestionData.json in Resources */,
+				C809E19B2623FD3300FE5157 /* image3.jpg in Resources */,
+				C809E19C2623FD3300FE5157 /* image1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
