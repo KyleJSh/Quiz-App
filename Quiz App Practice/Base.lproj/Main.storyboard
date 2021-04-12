@@ -40,10 +40,10 @@
                                                     <autoresizingMask key="autoresizingMask"/>
                                                     <subviews>
                                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YYj-va-8Vz" userLabel="Answer Background">
-                                                            <rect key="frame" x="20" y="0.0" width="374" height="60"/>
+                                                            <rect key="frame" x="20" y="0.0" width="376" height="60"/>
                                                             <subviews>
                                                                 <label opaque="NO" userInteractionEnabled="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VxX-Uy-epj" userLabel="Answer">
-                                                                    <rect key="frame" x="30" y="30" width="314" height="0.0"/>
+                                                                    <rect key="frame" x="30" y="30" width="316" height="0.0"/>
                                                                     <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                                                     <nil key="textColor"/>
                                                                     <nil key="highlightedColor"/>
@@ -59,7 +59,7 @@
                                                         </view>
                                                     </subviews>
                                                     <constraints>
-                                                        <constraint firstAttribute="trailing" secondItem="YYj-va-8Vz" secondAttribute="trailing" constant="20" id="3eN-MN-fI2"/>
+                                                        <constraint firstAttribute="trailing" secondItem="YYj-va-8Vz" secondAttribute="trailing" constant="18" id="3eN-MN-fI2"/>
                                                         <constraint firstItem="YYj-va-8Vz" firstAttribute="top" secondItem="Akd-n3-kIW" secondAttribute="top" id="Zvv-yK-5KI"/>
                                                         <constraint firstItem="YYj-va-8Vz" firstAttribute="leading" secondItem="Akd-n3-kIW" secondAttribute="leading" constant="20" id="h0T-N1-60c"/>
                                                         <constraint firstAttribute="bottom" secondItem="YYj-va-8Vz" secondAttribute="bottom" constant="20" id="yva-IW-Ygt"/>
@@ -121,13 +121,13 @@
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="O2r-5B-dUj" userLabel="Title">
                                                 <rect key="frame" x="83.5" y="0.0" width="67.5" height="172.5"/>
                                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
-                                                <nil key="textColor"/>
+                                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iHA-qv-EIz" userLabel="Feedback">
                                                 <rect key="frame" x="0.0" y="172.5" width="234" height="173"/>
-                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                                <nil key="textColor"/>
+                                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lvx-mn-hlk">
