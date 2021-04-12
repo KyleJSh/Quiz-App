@@ -26,11 +26,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C809E1822623F36B00FE5157 /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image1.png; path = ../../../../image1.png; sourceTree = SOURCE_ROOT; };
-		C809E1832623F36B00FE5157 /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image3.png; path = ../../../../image3.png; sourceTree = SOURCE_ROOT; };
-		C809E1842623F36C00FE5157 /* image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image4.png; path = ../../../../image4.png; sourceTree = SOURCE_ROOT; };
-		C809E1852623F36C00FE5157 /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image2.png; path = ../../../../image2.png; sourceTree = SOURCE_ROOT; };
-		C809E1862623F36C00FE5157 /* image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image5.png; path = ../../../../image5.png; sourceTree = SOURCE_ROOT; };
+		C809E1822623F36B00FE5157 /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image1.png; path = ../../../../image1.png; sourceTree = "<group>"; };
+		C809E1832623F36B00FE5157 /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image3.png; path = ../../../../image3.png; sourceTree = "<group>"; };
+		C809E1842623F36C00FE5157 /* image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image4.png; path = ../../../../image4.png; sourceTree = "<group>"; };
+		C809E1852623F36C00FE5157 /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image2.png; path = ../../../../image2.png; sourceTree = "<group>"; };
+		C809E1862623F36C00FE5157 /* image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image5.png; path = ../../../../image5.png; sourceTree = "<group>"; };
 		C82D77B42623F010007ACDFD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C8A8CACE261E152300825D80 /* StateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateManager.swift; sourceTree = "<group>"; };
 		C8CFABAC261CBCEA00B85FCE /* Quiz App Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz App Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
