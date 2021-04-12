@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C809E1872623F36C00FE5157 /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = C809E1822623F36B00FE5157 /* image1.png */; };
+		C809E1882623F36C00FE5157 /* image3.png in Resources */ = {isa = PBXBuildFile; fileRef = C809E1832623F36B00FE5157 /* image3.png */; };
+		C809E1892623F36C00FE5157 /* image4.png in Resources */ = {isa = PBXBuildFile; fileRef = C809E1842623F36C00FE5157 /* image4.png */; };
+		C809E18A2623F36C00FE5157 /* image2.png in Resources */ = {isa = PBXBuildFile; fileRef = C809E1852623F36C00FE5157 /* image2.png */; };
+		C809E18B2623F36C00FE5157 /* image5.png in Resources */ = {isa = PBXBuildFile; fileRef = C809E1862623F36C00FE5157 /* image5.png */; };
 		C8A8CACF261E152300825D80 /* StateManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8A8CACE261E152300825D80 /* StateManager.swift */; };
 		C8CFABB0261CBCEA00B85FCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8CFABAF261CBCEA00B85FCE /* AppDelegate.swift */; };
 		C8CFABB2261CBCEA00B85FCE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8CFABB1261CBCEA00B85FCE /* SceneDelegate.swift */; };
@@ -21,12 +26,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C809E1822623F36B00FE5157 /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image1.png; path = ../../../../image1.png; sourceTree = "<group>"; };
+		C809E1832623F36B00FE5157 /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image3.png; path = ../../../../image3.png; sourceTree = "<group>"; };
+		C809E1842623F36C00FE5157 /* image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image4.png; path = ../../../../image4.png; sourceTree = "<group>"; };
+		C809E1852623F36C00FE5157 /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image2.png; path = ../../../../image2.png; sourceTree = "<group>"; };
+		C809E1862623F36C00FE5157 /* image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image5.png; path = ../../../../image5.png; sourceTree = "<group>"; };
 		C82D77B42623F010007ACDFD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		C82D77B52623F0AE007ACDFD /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image3.png; path = ../../../../image3.png; sourceTree = "<group>"; };
-		C82D77B62623F0AE007ACDFD /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image2.png; path = ../../../../image2.png; sourceTree = "<group>"; };
-		C82D77B72623F0AF007ACDFD /* image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image5.png; path = ../../../../image5.png; sourceTree = "<group>"; };
-		C82D77B82623F0AF007ACDFD /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image1.png; path = ../../../../image1.png; sourceTree = "<group>"; };
-		C82D77B92623F0AF007ACDFD /* image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = image4.png; path = ../../../../image4.png; sourceTree = "<group>"; };
 		C8A8CACE261E152300825D80 /* StateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateManager.swift; sourceTree = "<group>"; };
 		C8CFABAC261CBCEA00B85FCE /* Quiz App Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz App Practice.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8CFABAF261CBCEA00B85FCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -57,11 +62,11 @@
 			isa = PBXGroup;
 			children = (
 				C82D77B42623F010007ACDFD /* README.md */,
-				C82D77B82623F0AF007ACDFD /* image1.png */,
-				C82D77B62623F0AE007ACDFD /* image2.png */,
-				C82D77B52623F0AE007ACDFD /* image3.png */,
-				C82D77B92623F0AF007ACDFD /* image4.png */,
-				C82D77B72623F0AF007ACDFD /* image5.png */,
+				C809E1822623F36B00FE5157 /* image1.png */,
+				C809E1852623F36C00FE5157 /* image2.png */,
+				C809E1832623F36B00FE5157 /* image3.png */,
+				C809E1842623F36C00FE5157 /* image4.png */,
+				C809E1862623F36C00FE5157 /* image5.png */,
 				C8CFABAE261CBCEA00B85FCE /* Quiz App Practice */,
 				C8CFABAD261CBCEA00B85FCE /* Products */,
 			);
@@ -152,7 +157,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				C8CFABBC261CBCED00B85FCE /* LaunchScreen.storyboard in Resources */,
+				C809E1882623F36C00FE5157 /* image3.png in Resources */,
+				C809E18A2623F36C00FE5157 /* image2.png in Resources */,
+				C809E1872623F36C00FE5157 /* image1.png in Resources */,
 				C8CFABB9261CBCED00B85FCE /* Assets.xcassets in Resources */,
+				C809E18B2623F36C00FE5157 /* image5.png in Resources */,
+				C809E1892623F36C00FE5157 /* image4.png in Resources */,
 				C8CFABB7261CBCEA00B85FCE /* Main.storyboard in Resources */,
 				C8DC86AA261CF4B0009E4255 /* QuestionData.json in Resources */,
 			);
